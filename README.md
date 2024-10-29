@@ -1,4 +1,5 @@
-## Hi there 👋
+[![MasterHead](https://images5.alphacoders.com/913/thumb-1920-913558.jpg)](https://github.com/EarendelH/EarendelH/)
+## 
 
 <!--
 **EarendelH/EarendelH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![EarendelH's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarendelH&theme=moltack&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarendelH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
